@@ -1,1 +1,1 @@
-Call Me Joe is a website that was created by Joe Carlson to show my work history and to play around with new Web Technologies. 
+BetaGrey is a totally free a single page bootstrap HTML theme with a professional and artistic edge. It’s perfect for anyone looking to build and display their portfolio.
